@@ -6,11 +6,11 @@ It can classify images placed in subdirectory of "data" folder, e.g.:
     * cats
         * cat1.png
         * cat2.png
-  [...]
+        * [...]
     * dogs
         * dog1.png
         * dog2.png
-  [...]
+        * [...]
 
 requirements:
 * numpy
